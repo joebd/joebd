@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="dotnet" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="dotnet" width="60" height="42"/> </a> </p>
-
+<p align="left"> <a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="dotnet" width="40" height="40"/> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="dotnet" width="60" height="42"/> </a> </p>
 
 <!--
 **joebd/joebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
